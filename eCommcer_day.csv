@@ -1,0 +1,86 @@
+id	macaddress	cedula	name	email	created_at	updated_at
+1	NULL	0702367939	test	tes2@gmail.com	2022-05-27 04:31:17	2022-05-27 04:31:17
+2	4E-9C-58-BF-4D-98	0940289259	Francisco Paredes	francisco.paredes@aldeberan.com.ec	2022-05-27 21:54:41	2022-05-27 21:54:41
+3	06-D7-F4-76-8A-ED	0956283998	Joselo Soto	prueba@aldeberan.com.ex	2022-05-27 21:55:08	2022-05-27 21:55:08
+4	6E-A6-23-11-E9-AB	0922236294	Marisol Chica	marisolchica24@gmail.com	2022-05-28 03:19:25	2022-05-28 03:19:25
+5	56-DD-30-06-32-80	0927536680	Daniel campaña	danito.1994@hotmail.com	2022-05-31 21:28:06	2022-05-31 21:28:06
+6	26-58-52-5F-42-CB	0927277707	Vicky Espinel	vickyespinels@hotmail.com	2022-05-31 21:40:04	2022-05-31 21:40:04
+7	C4-23-60-D6-2E-3C	55931180582	YLHAN PRECIADO	ylhan2010@hotmail.com	2022-05-31 22:22:42	2022-05-31 22:22:42
+8	C4-23-60-D6-2E-3C	55931180582	YLHAN PRECIADO	ylhan2010@hotmail.com	2022-05-31 22:22:42	2022-05-31 22:22:42
+9	AA-34-CE-9E-6B-C3	1706576590	Carlos barrezueta	Calubar@gmail.com	2022-05-31 23:20:44	2022-05-31 23:20:44
+10	38-BA-F8-DF-91-66	1711669869	Mauricio	mmunoz@artsolution.ec	2022-06-01 00:38:25	2022-06-01 00:38:25
+11	98-3B-8F-70-B6-97	0102030405	Edgar Beltran	edgma@hotmail.com	2022-06-01 13:20:50	2022-06-01 13:20:50
+12	30-3A-64-7A-4C-84	0123456789	Edgar 1	ed.g@gmail.com	2022-06-01 14:16:25	2022-06-01 14:16:25
+13	NULL	0943232000	kerly	kerly@hotmail.com	2022-06-01 15:15:59	2022-06-01 15:15:59
+14	4A-99-76-9F-AC-5D	0917696337	Alexander Franco Piscocama	alexanderfrancopiscocama@hotmail.com	2022-06-01 15:41:44	2022-06-01 15:41:44
+15	46-3A-D9-CA-9C-89	0924852585	Alex Figueroa	ediesentinel89@hotmail.com	2022-06-01 15:49:46	2022-06-01 15:49:46
+16	E0-CC-F8-F0-98-76	0916099732	Jose jacome	jajrecuador@outlook.es	2022-06-01 15:52:04	2022-06-01 15:52:04
+17	26-39-F9-B5-66-08	0944000751	Anthony Barrera Villavicencio	anthybarrera@gmail.com	2022-06-01 15:52:18	2022-06-01 15:52:18
+18	EE-06-9B-C1-26-5E	0930733795	Víctor MUÑOZ	victormunoz1509@gmail.com	2022-06-01 15:52:24	2022-06-01 15:52:24
+19	0E-14-A7-A2-88-45	0950658112	Anthony Arteaga	nobitahomero@gmail.com	2022-06-01 16:15:44	2022-06-01 16:15:44
+20	44-1C-A8-5E-64-D3	1721472080	Jorge Torres	jltv_98@hotmail.com	2022-06-01 16:35:30	2022-06-01 16:35:30
+21	9C-5A-81-69-13-47	0926878083	Luis Ángel León Sagñay	lleon1647@gmail.com	2022-06-01 16:49:18	2022-06-01 16:49:18
+22	EE-3A-36-B8-CF-26	0923498471	Arianna Coloma	Acoloma@publifyer.com	2022-06-01 18:06:08	2022-06-01 18:06:08
+23	C0-B6-F9-FE-7C-CF	0917778581	Jorge Alvarado	jalvarado@publifyer.com	2022-06-01 18:35:12	2022-06-01 18:35:12
+24	E6-C1-02-24-D7-86	0940615859	Otto Mandich	Otto.mandich@aldeberan.com.ec	2022-06-01 19:18:20	2022-06-01 19:18:20
+25	B8-C3-85-41-42-99	0917287575	Jorge marquez	Vin727@hotmail.com	2022-06-01 19:19:39	2022-06-01 19:19:39
+26	0E-15-42-16-7E-89	0986371567	Ylhan Preciado	ylhan2010@hotmail.com	2022-06-01 19:19:42	2022-06-01 19:19:42
+27	6C-40-08-A5-FA-88	0915112809	Miguel Palacios	miguelpalaciosbalanzategui@gmail.com	2022-06-01 19:47:35	2022-06-01 19:47:35
+28	0E-15-42-16-7E-89	2345167298	Ylhan Preciado	ylhan2010@gmail.com	2022-06-01 20:09:52	2022-06-01 20:09:52
+29	E0-1F-88-F4-33-E0	0967543218	Ivan Coello	daigost1996@live.com	2022-06-01 20:18:56	2022-06-01 20:18:56
+30	2A-77-8A-8E-DF-50	0924393184	Isaura Ponguillo	ipongui@claro.com.ec	2022-06-01 22:18:13	2022-06-01 22:18:13
+31	98-3B-8F-70-B6-97	1234567890	76789	vgfr@gmail.com	2022-06-01 22:20:13	2022-06-01 22:20:13
+32	28-11-A8-CE-DA-06	2869029292	ana saco	ecommerceday@einsituto.org	2022-06-01 22:21:38	2022-06-01 22:21:38
+33	BE-DC-CB-26-D3-B6	2890190188	Ana sacci	ecommerceday@einstituto.org	2022-06-01 22:25:06	2022-06-01 22:25:06
+34	1A-FB-5B-8F-90-C4	0929530343	Eliseo Peñafiel	eli.elnager23@gmail.com	2022-06-01 22:25:45	2022-06-01 22:25:45
+35	8A-34-E8-6D-04-BC	0123455688	Ete	Tedt@gmail.com	2022-06-01 23:08:58	2022-06-01 23:08:58
+36	7E-58-96-A9-F8-53	0924109267	Sergio Proaño	Sergio_ellobo1986@hotmail.com	2022-06-01 23:19:12	2022-06-01 23:19:12
+37	D8-B0-53-16-B0-8E	0923717326	Angie 6	angiemoransari@gmail.com	2022-06-01 23:21:19	2022-06-01 23:21:19
+38	BE-DC-CB-26-D3-B6	3890990900	Saco ana	ecommerceday@einstituto.org	2022-06-01 23:37:40	2022-06-01 23:37:40
+39	28-11-A8-CE-DA-06	2098746734	saco a	ecommerceday@einstituto.org	2022-06-01 23:42:13	2022-06-01 23:42:13
+40	BA-47-6C-93-A2-A0	0919339838	Wilmer coello	wilmercoello1978@gmail.com	2022-06-02 00:34:09	2022-06-02 00:34:09
+41	0E-9D-9F-00-A3-2C	0927178863	Rafael Rangel	raf87@hotmaol.com	2022-06-02 03:37:14	2022-06-02 03:37:14
+42	BA-25-5D-FF-DF-09	0924602055	Diego Moscoso	diego.moscoso_1984@hotmail.com	2022-06-02 03:37:19	2022-06-02 03:37:19
+43	D4-61-9D-10-6C-F2	0930496260	MONICA SANCHEZ	mgsanchez@tvcable.com.ec	2022-06-02 12:52:09	2022-06-02 12:52:09
+44	7C-FD-6B-3B-3D-ED	0915976377	Danny Mera	dmmakm_30@hotmail.com	2022-06-02 12:59:29	2022-06-02 12:59:29
+45	0E-EF-90-F7-89-44	0928877752	Jaime del pozo	Jaime-delpozo@hotmail.com	2022-06-02 13:00:16	2022-06-02 13:00:16
+46	98-3B-8F-70-B6-97	0702123456	Edgar Beltran	alde@aldeberan.cpm.ec	2022-06-02 13:07:05	2022-06-02 13:07:05
+47	8A-75-7C-20-E5-7A	0702763053	Rolando León	batukadashow@gmail.com	2022-06-02 13:07:34	2022-06-02 13:07:34
+48	9C-30-5B-D3-69-3B	0930148010	adriana rengifo	adriana.rengifo2@gmail.com	2022-06-02 13:11:58	2022-06-02 13:11:58
+49	86-B1-C5-57-B5-62	0913950101	Juan suarez	Jeancarlossuarez@hotmail.com	2022-06-02 13:14:08	2022-06-02 13:14:08
+50	24-EC-99-39-9F-B9	0924874522	wellington astudillo	w.astudillo2586@gmail.com	2022-06-02 13:16:11	2022-06-02 13:16:11
+51	CA-D0-25-0A-A2-4E	1711732402	David ponce	davidponce.dpa@gmail.com	2022-06-02 13:17:46	2022-06-02 13:17:46
+52	86-DA-4F-5D-D0-8C	1717925851	Joselyn	joselynsanchez23@outlook.com	2022-06-02 13:18:26	2022-06-02 13:18:26
+53	02-08-E5-A1-1B-CD	1717466740	Francisco Mena	francomena@blacksip.com	2022-06-02 13:21:27	2022-06-02 13:21:27
+54	A0-A8-CD-9F-A8-12	0940224298	genesis barzola	genesisbarzola21@gmail.com	2022-06-02 13:22:09	2022-06-02 13:22:09
+55	4C-D5-77-BF-ED-67	11111111	Prueba 1	11111@hotmail.com	2022-06-02 13:23:07	2022-06-02 13:23:07
+56	3C-A6-F6-1D-10-F1	42038293	ricardo rojas	Ricardorojas@blacksip.com	2022-06-02 13:24:02	2022-06-02 13:24:02
+57	34-1C-F0-F0-91-D4	0923431506	Samantha Vinueza	samantha.vinueza@serviciopostal.gob.ec	2022-06-02 13:29:58	2022-06-02 13:29:58
+58	32-84-EC-C3-8A-90	123456789	Pepe pipo	Pepe@pipo.com	2022-06-02 13:32:07	2022-06-02 13:32:07
+59	3E-A7-AA-30-56-D0	0981118581	George alva	Jalvarado@publifyer.com	2022-06-02 13:33:07	2022-06-02 13:33:07
+60	18-47-3D-A0-48-21	0920004280	maria auz	ma_carmen_auz@hotmail.com	2022-06-02 13:35:55	2022-06-02 13:35:55
+61	D8-C0-A6-A6-5B-F7	0401117023	Jeff Malquin	jeffmb88@hotmail.com	2022-06-02 13:40:26	2022-06-02 13:40:26
+62	DE-11-80-61-76-AF	0931438352	Marina	marinaisabelch.30@gmail.com	2022-06-02 13:46:24	2022-06-02 13:46:24
+63	14-7D-DA-13-15-53	0920635919	leonardo Luna	lluna@eficads.com	2022-06-02 13:50:35	2022-06-02 13:50:35
+64	F4-46-37-D3-69-36	1714937701	Oscar Cortes	oscar.cortes@mercadolibre.com	2022-06-02 13:50:56	2022-06-02 13:50:56
+65	DE-07-49-49-27-55	1714233093	Maria José Coronel	mariajosecoronel2@gmail.com	2022-06-02 13:50:59	2022-06-02 13:50:59
+66	8A-11-E6-08-66-31	0959280546	Jennifer Sasson	jsasson@rp3.com.ec	2022-06-02 13:52:23	2022-06-02 13:52:23
+67	60-F2-62-23-D5-61	0930552047	Harold Delgado	harold_mundo@hotmail.com	2022-06-02 13:52:24	2022-06-02 13:52:24
+68	92-6D-CC-57-80-2A	Omni.pro	María Francisca Osorio Bernal	Maria.osorio@omni.pro	2022-06-02 13:52:40	2022-06-02 13:52:40
+69	92-6D-CC-57-80-2A	Omni.pro	María Francisca Osorio Bernal	Maria.osorio@omni.pro	2022-06-02 13:52:40	2022-06-02 13:52:40
+70	A2-4C-3A-51-22-FA	0924173529	Luis Poveda	luisx2988@hotmail.com	2022-06-02 13:55:12	2022-06-02 13:55:12
+71	76-46-B7-1D-B9-73	0950315119	Karen pincay	Karen.pincay@tia.com.ec	2022-06-02 13:55:17	2022-06-02 13:55:17
+72	C0-B5-D7-B3-BE-63	1717434177	Estefania Arico	estefania.arico@etafashion.com	2022-06-02 13:55:35	2022-06-02 13:55:35
+73	20-32-6C-84-6C-74	0706216108	Stephania Añazco	sdanazco@espol.edu.ec	2022-06-02 13:56:07	2022-06-02 13:56:07
+74	B2-E7-86-F4-BF-08	0924166366	José Camacho	jcamachof14@gmail.com	2022-06-02 13:56:55	2022-06-02 13:56:55
+75	7A-15-99-5F-A1-46	0705218618	Alexandra Armijos	armijosalexandra89@gmail.com	2022-06-02 13:57:33	2022-06-02 13:57:33
+76	DC-21-5C-97-7B-0B	0925863854	Elías Ramírez	dvdripvideos@gmail.com	2022-06-02 13:58:13	2022-06-02 13:58:13
+77	40-F0-2F-8C-F6-1D	0925078180	KATHY PEÑA	sthephatyta26@gmail.com	2022-06-02 13:59:58	2022-06-02 13:59:58
+78	20-4E-F6-12-3E-C9	1759760901	Loreanna Milella	mloreanna@gmail.com	2022-06-02 14:02:13	2022-06-02 14:02:13
+79	18-01-F1-85-04-F8	0950656868	Erika Quiñonez	erika.jesus.94@gmail.com	2022-06-02 14:02:20	2022-06-02 14:02:20
+80	A0-78-17-6E-CB-71	0927803593	Raul Ugalde	raulugaldesarango@gmail.com	2022-06-02 14:02:38	2022-06-02 14:02:38
+81	A0-78-17-6F-8D-2D	0919575639	ENRIQUE ALARCON	digital@duoprint.com.ec	2022-06-02 14:02:40	2022-06-02 14:02:40
+82	54-14-F3-F8-51-A1	1307781276	SONIA TAPIA	sonia.tapia@dhl.com	2022-06-02 14:06:39	2022-06-02 14:06:39
+83	26-8A-47-AD-B3-05	0925775876	Estefania Cedeño	estefaniacedenoa@gmail.com	2022-06-02 14:06:47	2022-06-02 14:06:47
+84	C6-EA-02-4A-5F-B4	0913055521	Iván Coello	icoello0752@gmail.com	2022-06-02 14:06:52	2022-06-02 14:06:52
+85	04-56-E5-2F-57-F6	0917940116	Catalina Lara	clara@norlopwt.com.ec	2022-06-02 14:08:04	2022-06-02 14:08:04
